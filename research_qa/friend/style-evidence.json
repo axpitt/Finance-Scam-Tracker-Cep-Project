@@ -1,0 +1,168 @@
+{
+  "input": "C:\\Users\\arpit\\Downloads\\Cyberweb_backup.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 493,
+  "direct_paragraph_formatting_paragraphs": 706,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 21,
+      "text": "[Dr. Kiran Khandarkar] ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 186,
+      "text": "6.4 Personal Information and Digital Habits",
+      "style": "Normal"
+    },
+    {
+      "para_index": 193,
+      "text": "6.5 Password and Multi-Factor Authentication",
+      "style": "Normal"
+    },
+    {
+      "para_index": 271,
+      "text": "Section",
+      "style": "Normal"
+    },
+    {
+      "para_index": 315,
+      "text": "Title of Figure",
+      "style": "Normal"
+    },
+    {
+      "para_index": 359,
+      "text": "Title of Table",
+      "style": "Normal"
+    },
+    {
+      "para_index": 399,
+      "text": "Title of Graph",
+      "style": "Normal"
+    },
+    {
+      "para_index": 406,
+      "text": "Abbreviation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 407,
+      "text": "Full form",
+      "style": "Normal"
+    },
+    {
+      "para_index": 428,
+      "text": "In scope",
+      "style": "Normal"
+    },
+    {
+      "para_index": 429,
+      "text": "Not claimed as completed",
+      "style": "Normal"
+    },
+    {
+      "para_index": 440,
+      "text": "Source / agency",
+      "style": "Normal"
+    },
+    {
+      "para_index": 441,
+      "text": "Relevance to the project",
+      "style": "Normal"
+    },
+    {
+      "para_index": 454,
+      "text": "Objective",
+      "style": "Normal"
+    },
+    {
+      "para_index": 455,
+      "text": "Evidence / indicator available",
+      "style": "Normal"
+    },
+    {
+      "para_index": 466,
+      "text": "Section",
+      "style": "Normal"
+    },
+    {
+      "para_index": 467,
+      "text": "Questions",
+      "style": "Normal"
+    },
+    {
+      "para_index": 468,
+      "text": "Purpose",
+      "style": "Normal"
+    },
+    {
+      "para_index": 483,
+      "text": "Participant category",
+      "style": "Normal"
+    },
+    {
+      "para_index": 484,
+      "text": "Count",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "Maharashtra Institute of Technology ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "CHHATRAPATI SAMBHAJINAGAR ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": " ",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 2,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Maharashtra Institute of Technology",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "CHHATRAPATI SAMBHAJINAGAR ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "run_text": " ",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
