@@ -32,7 +32,6 @@ c:\another cep\
 ├── scam-spotter.html   # Interactive Scam Spotter Challenge page
 ├── quiz.html           # 6-Question Interactive Awareness Quiz page
 ├── if-money-sent.html  # Emergency incident response & Helpline 1930 page
-├── about-cep.html      # Academic CEP background & team placeholders
 ├── sources.html        # Verified SEBI & Gov of India official sources (Checked: Nov 2026)
 ├── css\
 │   └── styles.css      # Editorial stylesheet with doodles, responsive MPA grid, and cobalt blue theme
@@ -78,8 +77,8 @@ You can also open `index.html` directly in any web browser without running npm.
 
 All project metadata and editable fields are cleanly isolated with explicit placeholders:
 
-### A. Team and Academic Details (in `about-cep.html` and `index.html`)
-Open `about-cep.html` (or `index.html`) and locate the team table. Replace the bracketed placeholders once confirmed:
+### A. Team and Academic Details (Academic Companion Report)
+Academic CEP submission information and student/guide placeholders are maintained in the companion research report (`Investment_Scam_Awareness_CEP_Research_Report.docx` and `build_investment_cep_report.py`). Replace the bracketed placeholders once confirmed:
 
 | Placeholder | Meaning / Action |
 |---|---|

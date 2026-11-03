@@ -11,7 +11,6 @@ export default defineConfig({
         scamSpotter: resolve(__dirname, 'scam-spotter.html'),
         quiz: resolve(__dirname, 'quiz.html'),
         ifMoneySent: resolve(__dirname, 'if-money-sent.html'),
-        aboutCep: resolve(__dirname, 'about-cep.html'),
         sources: resolve(__dirname, 'sources.html'),
       },
     },
